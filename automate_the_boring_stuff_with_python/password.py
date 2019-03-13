@@ -14,10 +14,9 @@ while True:
 	typed_password = input("Enter your password, please > ")
 	print(f"You have {allowed_attempts - password_attempts} password attempts remaining.")
 
-	if password_attempts == allowed_attempts:
-		print("You have exceeded the maximum number of password attempts.Goodbye.")
+	if password_attempts >  allowed_attempts:
+		print("You have exceeded the maximum number of password attempts. Goodbye.")
 		break
-
 	elif typed_password == secret_password:
 		print('Access granted')
 		break
@@ -29,4 +28,18 @@ while True:
 		print('Incorrect Password: Access denied')
 		password_attempts += 1
 		continue
+# Takes the global variables password_attempts and allowed attempts and returns
+# them after every attempt at a password. 
+def return_password_attempts():
+	password_attempts += 1
+	allowed_attempts -= 1			
+	
+	return password_attempts
+	return allowed_attempts	
+
+return_password_attempts()
+
+print(f"This is the number of password attempts remaining from the function. {password attempts}.")
+
+print(f"This is the number of allowed_attempts remaining from the function. {allowed_attempts}")
 
