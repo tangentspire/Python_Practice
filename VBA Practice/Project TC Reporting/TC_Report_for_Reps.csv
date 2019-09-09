@@ -1,0 +1,31 @@
+Actor Name,Actor Id Int,Queue Name,Hits,Samples,ART
+Sai Ane,1.00E+14,[FAWG] TC - Atomization - 5,1134,1134,17.40685979
+Angelina Alvarez,1.00E+14,[FAWG] TC - Atomization - 5,842,842,26.00542399
+Shehnila Zuberi,1.00E+14,[FAWG] TC - Atomization - 3,800,800,4.25582375
+Patricia Agraz,1.00E+14,[FAWG] TC - Atomization - 4,667,667,6.293158921
+Nidhi Mehta,1.00E+14,[FAWG] TC - Atomization - 3,606,606,11.06652145
+Shehnila Zuberi,1.00E+14,[FAWG] TC - Atomization - 4,544,544,3.028174632
+Edward Balderas,1.00E+14,[FAWG] TC - Atomization - 5,433,433,39.87855889
+Anthony Robles,1.00E+14,[FAWG] TC - Atomization - 4,417,417,14.1457458
+Martha Ventura,1.00E+14,[FAWG] TC - Messaging - 1,413,413,31.36597094
+Shehnila Zuberi,1.00E+14,[FAWG] TC - Atomization - 5,399,399,36.035
+Jacob Gil,1.00E+14,[FAWG] TC - Non-Messaging - 2,395,395,30.49283291
+Brandon Poe,1.00E+14,[FAWG] TC - Messaging - 1,373,373,31.4454504
+Nidhi Mehta,1.00E+14,[FAWG] TC - Atomization - 5,372,372,40.96057258
+Patricia Agraz,1.00E+14,[FAWG] TC - Atomization - 5,351,351,46.67092593
+Anthony Robles,1.00E+14,[FAWG] TC - Atomization - 5,308,308,40.06623052
+Jaelyn Ordonio,1.00E+14,[FAWG] TC - Messaging - 1,277,277,40.34372563
+Priyanka Sinala,1.00E+14,[FAWG] TC - Non-Messaging - 2,257,257,59.78171595
+Sunita Chatterjee,1.00E+14,[FAWG] TC - Non-Messaging - 2,253,253,40.9415336
+Deepthi Chennareddy,1.00E+14,[FAWG] TC - Non-Messaging - 2,238,238,41.37847059
+Kevin Kim,1.00E+14,[FAWG] TC - Messaging - 1,221,221,54.3038371
+Reshmarani Powar,1.00E+14,[FAWG] TC - Non-Messaging - 2,197,197,43.06161421
+Priya McCluskey,1.00E+14,[FAWG] TC - Messaging - 1,181,181,43.31265193
+Akhil Puri,1.00E+14,[FAWG] TC - Non-Messaging - 2,173,173,50.08133526
+Anthony Robles,1.00E+14,[FAWG] TC - Atomization - 3,160,160,10.2531875
+Yen Nhu Hoang Mai,1.00E+14,[FAWG] TC - Non-Messaging - 2,146,146,17.13749315
+Alejandro Diaz,1.00E+14,[FAWG] TC - Messaging - 1,126,126,89.6900873
+Patricia Agraz,1.00E+14,[FAWG] TC - Atomization - 3,82,82,8.133597561
+Shela Duong,1.00E+14,[FAWG] TC - Messaging - 1,10,10,100.9165
+Edward Balderas,1.00E+14,[FAWG] TC - Atomization - 4,5,5,11.2298
+Nidhi Mehta,1.00E+14,[FAWG] TC - Atomization - 4,1,1,3.882
