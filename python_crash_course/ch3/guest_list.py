@@ -21,7 +21,7 @@ print_guestlist(guests)
 print("Actually I can only invite two of you to dinner.")
 
 while len(guests) > 2:
-	sorry_guest = guests.pop()
+	sorry_guest = guests.pop(0)
 	print(f"I am so sorry {sorry_guest}.")
 
 print(guests)
